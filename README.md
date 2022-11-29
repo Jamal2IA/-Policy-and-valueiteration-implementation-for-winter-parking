@@ -31,7 +31,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-  
     </li>
     <li>
       <a href="#getting-started">Set up</a>
