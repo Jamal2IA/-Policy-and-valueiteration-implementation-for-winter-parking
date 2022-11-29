@@ -26,7 +26,6 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -34,8 +33,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+ 
 
 This project provides an implementation of policy and value iteration for an MDP .
 
@@ -62,7 +60,7 @@ To set up this project locally follow these steps
  
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Jamal2IA/-Policy-and-valueiteration-implementation-for-winter-parking.git
    ```
 2. Install numpy
    ```sh
@@ -80,7 +78,7 @@ To set up this project locally follow these steps
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Jamal2IA/-Policy-and-valueiteration-implementation-for-winter-parking.git](https://github.com/Jamal2IA/-Policy-and-valueiteration-implementation-for-winter-parking)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
