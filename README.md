@@ -3,7 +3,10 @@
   
 <br />
 <div align="center">
+ 
     <img src="images/logo.png" alt="Logo" width="80" height="80">
+ 
+
   <h3 align="center">Policy and value iteration implementation</h3> 
 </div>
 
@@ -59,7 +62,7 @@ To set up this project locally follow these steps
    ```sh
    git clone https://github.com/Jamal2IA/Policy-iteration-value-iteration-implementation.git
    ```
-3. create a new virtual environment ( if you want to work with your main environment skip step 3 and 4 )
+3. create a new virtual environment ( if you want to work with your main environment skip step 2  and 3 )
    ```sh
    conda create -n pviteration
    ```
@@ -67,7 +70,7 @@ To set up this project locally follow these steps
    ```sh
    conda install -c anaconda ipykernel
    ```
-```sh
+   ```sh
    python -m ipykernel install --user --name=pviteration
    ```
 5. Install numpy
