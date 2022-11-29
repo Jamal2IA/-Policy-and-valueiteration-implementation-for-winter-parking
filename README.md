@@ -3,11 +3,11 @@
   
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+ 
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ 
 
-  <h3 align="center">Best-README-Template</h3> 
+  <h3 align="center">Policy and value iteration implementation</h3> 
 </div>
 
 
@@ -60,7 +60,7 @@ To set up this project locally follow these steps
  
 1. Clone the repo
    ```sh
-   git clone https://github.com/Jamal2IA/-Policy-and-valueiteration-implementation-for-winter-parking.git
+   git clone https://github.com/Jamal2IA/Policy-iteration-value-iteration-implementation.git
    ```
 2. Install numpy
    ```sh
@@ -78,7 +78,7 @@ To set up this project locally follow these steps
 
 Jamal Rebii- [JamalAI](https://jamal-ai.vercel.app/) - rebiijamal1@gmail.com
 
-Project Link: [https://github.com/Jamal2IA/-Policy-and-valueiteration-implementation-for-winter-parking](https://github.com/Jamal2IA/-Policy-and-valueiteration-implementation-for-winter-parking)
+Project Link: [https://github.com/Jamal2IA/Policy-iteration-value-iteration-implementation.git](https://github.com/Jamal2IA/Policy-iteration-value-iteration-implementation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
