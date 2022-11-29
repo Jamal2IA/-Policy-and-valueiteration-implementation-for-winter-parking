@@ -35,7 +35,6 @@
     <li>
       <a href="#getting-started">Set up</a>
       <ul>
- 
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
