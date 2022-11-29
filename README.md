@@ -41,7 +41,7 @@ This project provides an implementation of policy and value iteration for an MDP
 The policy and value iteration algorithms are on-model algorithm , which means it can only be used if the MDP is known .
 
 
-To use this code , you need to modelze the your MDP then change the states and actions space .
+To use this code , you need to model your MDP then change the states and actions space .
 
  
 
